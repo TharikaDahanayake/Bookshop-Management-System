@@ -1,0 +1,4 @@
+main\java\com\example\bookshop\model\User.class
+main\java\com\example\bookshop\service\AuthService.class
+main\java\com\example\bookshop\repository\UserRespository.class
+main\java\com\example\bookshop\controller\AuthController.class
