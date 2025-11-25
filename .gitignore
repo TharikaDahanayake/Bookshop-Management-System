@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+bookshop-backend/config.env
+bookshop-frontend/.env.local
