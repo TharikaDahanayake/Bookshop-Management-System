@@ -1,16 +1,27 @@
-# Bookshop-Management-System
+# Everyday is a learning day !
+
+## Bookshop-Management-System
 
 ## Overview
-This project implements a Bookshop Management System using Node.js with a Service-Oriented Architecture (SOA). It consists of three main entities: Admins, Customers, and Books, with endpoints for managing users and book records.
+The Bookshop Management System helps you manage books, customers, and admins in a digital bookstore environment. It allows admins to add and manage books, and customers to register, browse, and purchase books. This project uses Node.js and a Service-Oriented Architecture (SOA) to separate concerns and make the system scalable and maintainable.
+
+Features
+
+- Admins can register and login to manage the bookstore.
+- Customers can register, login, and purchase books.
+- Books can be added, listed, and purchased with proper tracking.
+- Supports secure authentication for both admins and customers.
 
 ## Services
-Admin Service
-Customer Service
-Book Service
+- Admin Service
+- Customer Service
+- Book Service
 
 ## Prerequisites
-Node.js
-npm
-MySQL Server
+- Node.js
+- npm
+- MySQL Server
 
-Thank You & Best Regards!
+#### Thank You Guys & Good Luck!
+Best Regards, 
+**_Tharika Dahanayake_**
