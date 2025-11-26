@@ -1,6 +1,6 @@
-# Everyday is a learning day !
+# Bookshop-Management-System
 
-## Bookshop-Management-System
+## Everyday is a learning day !
 
 ## Overview
 The Bookshop Management System helps you manage books, customers, and admins in a digital bookstore environment. It allows admins to add and manage books, and customers to register, browse, and purchase books. This project uses Node.js and a Service-Oriented Architecture (SOA) to separate concerns and make the system scalable and maintainable.
